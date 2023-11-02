@@ -1,0 +1,15 @@
+/Document
+/ThirdParty
+
+/Library/CMSIS/*
+!/Library/CMSIS/include
+
+/Library/FWUpdate
+/Library/SmartcardLib
+/Library/UsbHostLib
+
+/SampleCode/*
+!/SampleCode/cdc_acm_template
+
+/*.txt
+/*.pdf
